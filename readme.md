@@ -14,4 +14,9 @@ comando para crear la rama main
 comando para agregar a github el contenido del repositorio  
 #### git push -u origin main  
 comando para subir a github  
-
+  
+------------------------------
+#### git branch namerama  
+comando para crear ramas  
+#### git checkout namerama  
+comando para cambiar de rama
