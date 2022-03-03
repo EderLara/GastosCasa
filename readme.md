@@ -20,3 +20,11 @@ comando para subir a github
 comando para crear ramas  
 #### git checkout namerama  
 comando para cambiar de rama
+
+--
+#### git pull origin rama  
+comando para adicionar los elementos de la otra rama  
+#### git merge  
+comando para combinar todas las ramas
+#### git clone https://github.com/usuario/repositorioname.git  
+comando para copiar todo el repositorio en su pc o entorno local
